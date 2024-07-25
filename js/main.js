@@ -5,7 +5,7 @@ class CalculadoraEnvio {
     this.localidadOrigen = localidadOrigen;
     this.localidadDestino = localidadDestino;
     this.pesoPaquete = pesoPaquete;
-    this.costoPorKilometro = 200; // Valor por kilómetro (ajustado a $200)
+    this.costoPorKilometro = 200; 
   }
 
   toRad(degrees) {
